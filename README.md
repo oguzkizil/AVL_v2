@@ -1,4 +1,7 @@
-AVL Tree 
+AVL Tree
+
+--> Türkçe açıklamalar rapor.pdf içerisinde mevcuttur 
+
 This was my first school project for learning java so feel free to expect some errors. 
 This program includes of a AVL tree's simple visualization. 
 
